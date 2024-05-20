@@ -1,7 +1,6 @@
 # Pizza-Sales---SQL
 “The Pizza Sales Project is a data analysis and visualization endeavor focused on analyzing sales data from a fictional pizza restaurant chain. Leveraging SQL for data extraction and transformation,  this project aims to provide actionable insights to optimize operations, enhance sales, and improve customer satisfaction.
 
-  <h1>Pizza Sales Analysis with SQL</h1>
   <p>This project dives into the world of pizza sales through the lens of data analysis. We'll be exploring sales data from a fictional pizza restaurant chain to uncover valuable insights.</p>
   <h2>Key Features</h2>
   <ul>
